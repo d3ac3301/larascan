@@ -25,7 +25,7 @@ Laravel Scanner is a tool designed to help you identify potential vulnerabilitie
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/PentestPad/larascan.git
+    git clone https://github.com/d3ac3301/larascan.git
     cd larascan
     ```
 
